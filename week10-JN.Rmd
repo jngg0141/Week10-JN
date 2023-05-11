@@ -1,0 +1,7 @@
+---
+title: "week10_JN"
+author: "jimmy"
+date: "2023-05-11"
+output: html_document
+---
+
